@@ -1,3 +1,4 @@
+# articulos
 # Sistema de Códigos QR MG
 
 Sistema para generar códigos QR personalizados con el logo MG y esquemas de colores, similar a los códigos QR de Microsoft. Cada código contiene información específica del producto que puede ser escaneada desde una app móvil.
