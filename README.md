@@ -232,3 +232,5 @@ generator.create_product_qr(
 ## 📄 Licencia
 
 Proyecto para uso interno de MG Brand.
+
+
